@@ -9,3 +9,10 @@ npm start
 
 # 機能
 現在このサンプル？テスト？ユーザー用のリポジトリでは自動VC作成機能の設定ができる管理画面を機能として追加してあります。
+
+# 画面
+
+
+![スクリーンショット (435)](https://user-images.githubusercontent.com/76240562/178740127-bd43a387-cc14-4e58-8e4b-11301f03120e.png)
+
+![スクリーンショット (436)](https://user-images.githubusercontent.com/76240562/178740167-62f32029-293d-447d-9ed3-efbf8a335d74.png)
